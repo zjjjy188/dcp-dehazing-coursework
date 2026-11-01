@@ -237,3 +237,10 @@ fabric.properties
 
 .idea
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
+# 课程实验：不重复分发源数据和大量生成图像
+data/clean/
+results/examples/
+results/real/
+results/pilot/examples/
+outputs/
+*.log

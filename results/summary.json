@@ -1,0 +1,89 @@
+{
+  "selected_candidate": "eps0.0001_robustFalse_protect0",
+  "validation_count": 48,
+  "test_count": 36,
+  "summary": {
+    "hazy": {
+      "psnr": 10.800975455233003,
+      "ssim": 0.6709284966862427,
+      "seconds": 0.0001245500000853402
+    },
+    "original": {
+      "psnr": 20.57071251220295,
+      "ssim": 0.9224186092423756,
+      "seconds": 1.642340188889092
+    },
+    "fast": {
+      "psnr": 20.57071251220294,
+      "ssim": 0.9224186092423938,
+      "seconds": 0.061725100000229655
+    },
+    "regularized": {
+      "psnr": 20.54260992582406,
+      "ssim": 0.9291073238814719,
+      "seconds": 0.06930723611114648
+    },
+    "airlight": {
+      "psnr": 19.266904705105908,
+      "ssim": 0.9150971708534568,
+      "seconds": 0.0644673916668176
+    },
+    "bright_protection": {
+      "psnr": 19.94884756671508,
+      "ssim": 0.9262441042176742,
+      "seconds": 0.06821132500019506
+    },
+    "improved": {
+      "psnr": 20.54260992582406,
+      "ssim": 0.9291073238814719,
+      "seconds": 0.06402465000024272
+    }
+  },
+  "checks": {
+    "guided_filter_max_error": 1.9984014443252818e-15,
+    "pipeline_max_error": 3.2855662635000726e-15,
+    "tiny_and_black_inputs": "passed"
+  },
+  "benchmark": {
+    "shape": [
+      214,
+      320,
+      3
+    ],
+    "repeats": 3,
+    "raw_seconds": {
+      "original": [
+        6.696997199998805,
+        3.272098299999925,
+        3.350734300000113
+      ],
+      "fast": [
+        0.07320499999877939,
+        0.08224150000023656,
+        0.08919740000055754
+      ]
+    },
+    "median_seconds": {
+      "original": 3.350734300000113,
+      "fast": 0.08224150000023656
+    },
+    "speedup": 40.74262142580662
+  },
+  "environment": {
+    "python": "3.14.6 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:29:05) [MSC v.1942 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.2"
+  },
+  "real_examples": [
+    "forest.jpg",
+    "street.jpg"
+  ],
+  "limitations": [
+    "28 张 BSDS500 图像按文件名选择的教学子集，不代表完整标准基准",
+    "合成雾使用人工深度代理，不是真实深度或真实成对雾图",
+    "真实雾图无真值，只进行定性观察",
+    "所有实现均使用 CPU，GPU 未参与计时",
+    "原版结果统一裁剪到 0..1，避免原 main.py 的 uint8 越界回绕",
+    "先导试验的全部 16 张图像已纳入开发集；最终 12 张测试图像为全新保留集"
+  ]
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "100007",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/100007.jpg",
+    "sha256": "464449ecba30a5a5c229c0133059c83b034e9000bd1d7752a189a8cf21182bf9"
+  },
+  {
+    "id": "100039",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/100039.jpg",
+    "sha256": "418366bbb4f0f4c2200b93e8bda153ab84809fe873a371b32e7cc36c2d091cc3"
+  },
+  {
+    "id": "100099",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/100099.jpg",
+    "sha256": "e5a275fcafb0dc986d802037210989f4852bfb09bd19e525c3b7719104f1fc77"
+  },
+  {
+    "id": "10081",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/10081.jpg",
+    "sha256": "ce1a8bd8da460cf2606b6b5fd55762f8e13b2576fff508228ac24c80839db389"
+  },
+  {
+    "id": "101027",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/101027.jpg",
+    "sha256": "22903efe16abd94cfd821952de276cc36c531070c27bd84de7a3fb958bd64bc9"
+  },
+  {
+    "id": "101084",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/101084.jpg",
+    "sha256": "6bfa36b8e03b12a83abcfd59c5ccdc89334ea23761f11242d5903935ad292d0c"
+  },
+  {
+    "id": "102062",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/102062.jpg",
+    "sha256": "242ea9821b189197d436da1b252325f5e7850248c5d57da53cec29c37ba0773d"
+  },
+  {
+    "id": "103006",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/103006.jpg",
+    "sha256": "67968e9d84cd4c69dea832184ba910d4851c284fcc65a38ed6aee89f2a3a72c1"
+  },
+  {
+    "id": "103029",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/103029.jpg",
+    "sha256": "a05f1c0b30f4e18ad31364abacb54ec55300704ff3a4f8b2889f400bc3757da1"
+  },
+  {
+    "id": "103078",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/103078.jpg",
+    "sha256": "2b21f416993ca1ef49aafa28e5b7f463713dc1b1d510144c673d8b72e035c1f7"
+  },
+  {
+    "id": "104010",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/104010.jpg",
+    "sha256": "1f8516487071b94e3820d833c4795c788ef8df130cb8f7fccf0b87f4cd952339"
+  },
+  {
+    "id": "104055",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/104055.jpg",
+    "sha256": "d2de9fccbf15edde57948cda64ae034a92b14ab2ecefb7d77a436151c8dd7751"
+  },
+  {
+    "id": "105027",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/105027.jpg",
+    "sha256": "f6cba0ae618d793b67729ba561461be7b5339aeaad27429f3a2804f588a4e623"
+  },
+  {
+    "id": "106005",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/106005.jpg",
+    "sha256": "35cd328a7d0e4bcaccbdb8154ec5ebbc8f24439807e573b2fe4a4996ea802bed"
+  },
+  {
+    "id": "106047",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/106047.jpg",
+    "sha256": "2e6250fdfdd796b6d63924233362eb8a194f10466d8d7d69a60cc3ef51a2c356"
+  },
+  {
+    "id": "107014",
+    "split": "validation",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/107014.jpg",
+    "sha256": "7bba718bed4919723a576cad0623c0a10e92b8c707d35196180257a3e867cfcd"
+  },
+  {
+    "id": "107045",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/107045.jpg",
+    "sha256": "11ee811a5c67b3499eabbafc9157cd0bce74df369c57e18c988123f576a6f20c"
+  },
+  {
+    "id": "107072",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/107072.jpg",
+    "sha256": "faa70504470e50ea37c0ad01f7f2c2e8682098af3630064a3ca02f6261b2e076"
+  },
+  {
+    "id": "108004",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/108004.jpg",
+    "sha256": "3fb004a47be33dca07744000e794b0ca3cff2251ba85a99f46ccf34d3b9b29df"
+  },
+  {
+    "id": "108036",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/108036.jpg",
+    "sha256": "f24bee7977df112c548f5cd02cb8342784df2582dbb11853b80d59ccd01a62e2"
+  },
+  {
+    "id": "108069",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/108069.jpg",
+    "sha256": "a6d8ba350cac0701edc115fa583bf666231c4e1526801d0a53cea495a15b433a"
+  },
+  {
+    "id": "109055",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/109055.jpg",
+    "sha256": "7e9ed22fb8d3143d47b4a6df687a34335afe36bee74473a4b4d3b240cf04ab6a"
+  },
+  {
+    "id": "112056",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/112056.jpg",
+    "sha256": "df32aa99ba6e9b8e30a60671b37b44af9c578afae809ae972b3d7068c3d7c26f"
+  },
+  {
+    "id": "112090",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/112090.jpg",
+    "sha256": "f625fcefd5e37a5d2efd3ad87e508a562d053eda3a2c67092103b957430023d9"
+  },
+  {
+    "id": "117025",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/117025.jpg",
+    "sha256": "4239e66eb251e85d266b20bd09efa3d1aedd5a537ede0b9ad411c84db34e3739"
+  },
+  {
+    "id": "118015",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/118015.jpg",
+    "sha256": "3b7f6647fc717f459175014cb7a23f5f2728b9fd7ee9689d20eaaabc8dd00393"
+  },
+  {
+    "id": "118031",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/118031.jpg",
+    "sha256": "1af5bcf37b28ee68c2e18aeac19ff9a79cf1edb522ecdcb064094349f1c28610"
+  },
+  {
+    "id": "118072",
+    "split": "test",
+    "url": "https://raw.githubusercontent.com/BIDS/BSDS500/a04b7c6c3a9f0ace74bf205c72a43d32e1c72722/BSDS500/data/images/test/118072.jpg",
+    "sha256": "5da8ebc70169f79ca0bfc118a25b74469da928cd41ffc6a646bf67a97d933c28"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "window": 15,
+  "radius": 40,
+  "omega": 0.95,
+  "t0": 0.1,
+  "eps": 0.001,
+  "robust_airlight": true,
+  "bright_protection": 0
+}

@@ -1,0 +1,6 @@
+# 本机实验主要依赖版本，常规安装入口为 requirements.txt
+numpy==2.5.2
+scipy==1.18.0
+Pillow==12.3.0
+matplotlib==3.11.1
+gradio==6.30.0

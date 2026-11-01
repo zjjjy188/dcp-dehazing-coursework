@@ -1,0 +1,83 @@
+{
+  "selected_candidate": "eps0.001_robustTrue_protect0",
+  "validation_count": 12,
+  "test_count": 36,
+  "summary": {
+    "hazy": {
+      "psnr": 10.784461740087657,
+      "ssim": 0.6660319702451091,
+      "seconds": 8.583611098502943e-05
+    },
+    "original": {
+      "psnr": 21.1709297892816,
+      "ssim": 0.9124906289934425,
+      "seconds": 2.1944312916666098
+    },
+    "fast": {
+      "psnr": 21.17092978928183,
+      "ssim": 0.9124906289934902,
+      "seconds": 0.06467934444435741
+    },
+    "regularized": {
+      "psnr": 21.1649940459357,
+      "ssim": 0.9235123071064995,
+      "seconds": 0.06459206944454207
+    },
+    "airlight": {
+      "psnr": 20.07921725495002,
+      "ssim": 0.9188596390319166,
+      "seconds": 0.0650911500000196
+    },
+    "improved": {
+      "psnr": 20.07921725495002,
+      "ssim": 0.9188596390319166,
+      "seconds": 0.0656903944445225
+    }
+  },
+  "checks": {
+    "guided_filter_max_error": 1.9984014443252818e-15,
+    "pipeline_max_error": 3.2855662635000726e-15,
+    "tiny_and_black_inputs": "passed"
+  },
+  "benchmark": {
+    "shape": [
+      214,
+      320,
+      3
+    ],
+    "repeats": 3,
+    "raw_seconds": {
+      "original": [
+        1.1503960999998526,
+        1.1423529000003327,
+        1.1391169000016816
+      ],
+      "fast": [
+        0.040791399998852285,
+        0.05010249999941152,
+        0.04499679999935324
+      ]
+    },
+    "median_seconds": {
+      "original": 1.1423529000003327,
+      "fast": 0.04499679999935324
+    },
+    "speedup": 25.387425328395626
+  },
+  "environment": {
+    "python": "3.14.6 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:29:05) [MSC v.1942 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.2"
+  },
+  "real_examples": [
+    "forest.jpg",
+    "street.jpg"
+  ],
+  "limitations": [
+    "16 张 BSDS500 图像按文件名选择的教学子集，不代表完整标准基准",
+    "合成雾使用人工深度代理，不是真实深度或真实成对雾图",
+    "真实雾图无真值，只进行定性观察",
+    "所有实现均使用 CPU，GPU 未参与计时",
+    "原版结果统一裁剪到 0..1，避免原 main.py 的 uint8 越界回绕"
+  ]
+}
